@@ -1,7 +1,10 @@
+import {Simpson} from "./components/Simpson/Simpson";
+import {Simpsons} from "./components/Simpsons/Simpsons";
+
 const App = () => {
     return (
         <div>
-            AppLesson1
+           <Simpsons/>
         </div>
     );
 };
